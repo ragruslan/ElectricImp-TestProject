@@ -1,0 +1,14 @@
+{
+    "product-id": "efed5223-b2d9-b5fb-a698-0f65c439a238", 
+    "device-group-id": "235df88d-36ca-f8fc-0328-e2ae5e80dfff", 
+    "cloud-url": "https://api.electricimp.com/v5/", 
+    "builder-settings": {
+        "builder_cli_path": "/usr/local/lib/node_modules/Builder/src/cli.js", 
+        "variable-definitions": {}, 
+        "node_path": "/usr/local/bin/node"
+    }, 
+    "device-file": "src/device.nut", 
+    "agent-file": "src/agent.nut", 
+    "collaborator-id": "d415026f-fe6b-62e6-534d-50e5793f8980", 
+    "deployment-id": "5b6a67a4-5f69-db94-5003-95fb504df916"
+}

@@ -1,0 +1,12 @@
+{
+  "deviceGroupId": "235df88d-36ca-f8fc-0328-e2ae5e80dfff",
+  "timeout": 30,
+  "stopOnFail": false,
+  "allowDisconnect": false,
+  "builderCache": false,
+  "testFiles": [
+    "*.test.nut",
+    "tests/**/*.test.nut"
+  ],
+  "deviceFile": "src/device.nut"
+}
