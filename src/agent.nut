@@ -1,7 +1,7 @@
 #require "Ubidots.agent.lib.nut:1.0.0"
 
-const UBIDOTS_TOKEN = "A1E-MBULiZQAfUgTflPev2B9yqt5MpT1bi";
-const UBIDOTS_DEVICE_LABEL = "test_dev";
+const UBIDOTS_TOKEN = "<YOUR UBIDOTS.COM API TOKEN>";
+const UBIDOTS_DEVICE_LABEL = "YOUR DEVICE LABEL";
 
 ubidots <- Ubidots.Client(UBIDOTS_TOKEN);
 ubidots.setDeviceLabel(UBIDOTS_DEVICE_LABEL);
